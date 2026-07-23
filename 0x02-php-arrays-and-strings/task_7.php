@@ -10,7 +10,7 @@
  *           "status" => "success",
  *           "data" => [
  *             "users" => [
- *               ["id" => 1, "name" => "Samuel", "active" => true],
+ *               ["id" => 1, "name" => "Alex", "active" => true],
  *               ["id" => 2, "name" => "Tolu", "active" => false],
  *             ],
  *             "total" => 2,
@@ -27,7 +27,7 @@
  *         Access a nested value both ways. Print both.
  *
  * Part C: Handle JSON errors:
- *         $invalid = '{"name": "Samuel", "age": }'; // malformed
+ *         $invalid = '{"name": "Alex", "age": }'; // malformed
  *         Try to decode it, catch the error, print a meaningful message.
  *
  * Part D: Write a function apiResponse($status, $data, $message = null): string

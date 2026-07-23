@@ -23,7 +23,7 @@
  *         - Split into chunks of 3 using array_chunk()
  *         - Combine with array_combine():
  *           $keys = ["first", "last", "email"];
- *           $values = ["Samuel", "Ayomide", "samuel@example.com"];
+ *           $values = ["Alex", "Johnson", "alex@example.com"];
  *           Print the combined result.
  *
  * Part D: Flatten this nested array WITHOUT using array_merge inside a loop trick:

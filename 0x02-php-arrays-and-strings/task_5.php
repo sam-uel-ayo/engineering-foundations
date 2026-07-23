@@ -19,7 +19,7 @@
  *         Use foreach with destructuring to print: "Point: (1, 2)" for each.
  *
  * Part D: Destructure associative arrays:
- *         $user = ["name" => "Samuel", "email" => "s@example.com", "role" => "admin"];
+ *         $user = ["name" => "Alex", "email" => "a@example.com", "role" => "admin"];
  *         Extract name and role (skip email) using array destructuring with keys.
  *
  * Part E: Return multiple values from a function using array destructuring.

@@ -13,7 +13,7 @@
  * Part D: Given $users = [
  *           ["name" => "Zara", "age" => 25],
  *           ["name" => "Abel", "age" => 31],
- *           ["name" => "Samuel", "age" => 23],
+ *           ["name" => "Alex", "age" => 23],
  *         ];
  *         Sort by name ascending using usort()
  *         Sort by age descending using usort()

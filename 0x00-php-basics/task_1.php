@@ -14,7 +14,7 @@
  * Expected output (your values can differ):
  * value: 42 | type: integer
  * value: 3.14 | type: double
- * value: Samuel | type: string
+ * value: Alex | type: string
  * value: true | type: boolean
  * value: null | type: NULL
  */

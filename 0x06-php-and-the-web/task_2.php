@@ -6,7 +6,7 @@
  *
  * Requirements:
  * $users = [
- *   ["id" => 1, "email" => "samuel@example.com", "password" => password_hash("secret123", PASSWORD_DEFAULT), "role" => "admin"],
+ *   ["id" => 1, "email" => "user@example.com", "password" => password_hash("secret123", PASSWORD_DEFAULT), "role" => "admin"],
  *   ["id" => 2, "email" => "tolu@example.com", "password" => password_hash("pass456", PASSWORD_DEFAULT), "role" => "user"],
  * ];
  *

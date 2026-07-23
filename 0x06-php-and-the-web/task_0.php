@@ -23,7 +23,7 @@
  * - Handle OPTIONS preflight request (return 200 immediately)
  * - Test with: curl -X POST http://localhost:8000/task_0.php \
  *              -H "Content-Type: application/json" \
- *              -d '{"name": "Samuel"}'
+ *              -d '{"name": "Alex"}'
  *
  * Write a comment explaining each $_SERVER key you use.
  */

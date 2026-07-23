@@ -8,7 +8,7 @@
  * Requirements:
  * Part A: Create an anonymous function and assign it to $greet.
  *         $greet should accept a name and return "Hello, [name]!"
- *         Call it like a regular function: $greet("Samuel")
+ *         Call it like a regular function: $greet("Alex")
  *
  * Part B: Create an array of numbers [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5].
  *         Use usort() with an anonymous function to sort it descending.

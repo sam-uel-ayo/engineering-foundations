@@ -1,6 +1,6 @@
-# Samuel Ayomide — Engineering Foundations
+# Engineering Foundations
 
-> "I have to lock in now so I don't build my empire on lies." — Samuel Ayomide, 2026
+> "I have to lock in now so I don't build my empire on lies." — 2026
 
 This repository is my deliberate path from conceptual understanding to genuine fluency.
 Every task is written by hand. No AI writes the solutions. Docs are allowed. AI is not.

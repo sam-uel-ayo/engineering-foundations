@@ -9,7 +9,7 @@
  * For each part, write the solution AND a comment explaining what
  * the function does internally at a conceptual level.
  *
- * Part A: Given $email = "  Samuel.Ayomide@Gmail.COM  "
+ * Part A: Given $email = "  Alex.Johnson@Gmail.COM  "
  *         - Trim whitespace
  *         - Convert to lowercase
  *         - Check if it contains "@"
@@ -24,7 +24,7 @@
  * Part C: Given $template = "Hello {{name}}, your order {{order_id}} is {{status}}."
  *         Write a function renderTemplate($template, $data) that replaces
  *         {{placeholders}} with values from the $data array.
- *         $data = ["name" => "Samuel", "order_id" => "ORD-001", "status" => "shipped"]
+ *         $data = ["name" => "Alex", "order_id" => "ORD-001", "status" => "shipped"]
  *
  * Part D: Write a function truncate($text, $maxLength, $suffix = "...") that
  *         truncates a string to $maxLength characters and appends $suffix.

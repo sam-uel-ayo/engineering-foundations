@@ -14,7 +14,7 @@
  *         $users = [
  *           ["name" => "Alice", "age" => 28, "active" => true],
  *           ["name" => "Bob", "age" => 34, "active" => false],
- *           ["name" => "Samuel", "age" => 23, "active" => true],
+ *           ["name" => "Charlie", "age" => 23, "active" => true],
  *           ["name" => "Tolu", "age" => 27, "active" => true],
  *         ];
  *
