@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+*.swp
+*.swo
+
+# Environment & Dependencies
+.env
+vendor/
+node_modules/
